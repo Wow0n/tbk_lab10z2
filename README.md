@@ -1,4 +1,3 @@
-dla windowsa:
 ```
 docker swarm init
 docker stack deploy -c img-gallery.yml image-gallery
